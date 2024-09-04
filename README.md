@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript | React | Next.js | Node JS | React Native | Full-Stack Development | Website Development | Mobile App Development**
 - 📫 How to reach me **gigolyanzaven@gmail.com**
-- 📫 How to reach me in Telegram ** https://t.me/zvo77**
+- 📫 How to reach me in Telegram **https://t.me/zvo77**
 
 <div><a href="https://github.com/davit-khachatryan1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:khachatryandavit55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
